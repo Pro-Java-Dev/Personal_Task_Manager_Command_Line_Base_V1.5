@@ -1,2 +1,0 @@
-1. javac -cp ".;C:\VSCODE_PROJECTS\PERSONAL_TASK_MANAGER\sqlite-jdbc-3.53.4.0.jar" App.java model\*.java database\*.java storage\*.java services\*.java ui\*.java
-2. java --enable-native-access=ALL-UNNAMED -cp ".;C:\VSCODE_PROJECTS\PERSONAL_TASK_MANAGER\sqlite-jdbc-3.53.4.0.jar" PERSONAL_TASK_MANAGER.App
